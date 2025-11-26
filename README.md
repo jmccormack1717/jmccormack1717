@@ -4,7 +4,7 @@
 I like building things that solve real problems and exploring machine learning research.  
 
 - 🛠 **Work:** Full-stack engineering, AI tools, and data pipelines  
-- 🧠 **Research & Learning:** ML theory, data science, and applied math  
+- 🧠 **Research:** ML theory, data science, and applied math  
 - ⚡ **Focus:** Solving real-world problems with code  
 
 ### 🚀 Things I’m currently learning
