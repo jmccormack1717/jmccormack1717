@@ -1,7 +1,7 @@
 # 👋 Hi, I’m James  
 **Engineer | ML Researcher | Python Enjoyer**
 
-I like building things that solve real problems and AI.
+I like building things that solve real problems and exploring AI.
 
 - 🛠 **Work:** Full-stack engineering, AI tools, and data pipelines  
 - 🧠 **Research:** ML, data science, and applied math  
