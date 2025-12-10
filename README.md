@@ -1,7 +1,7 @@
 # 👋 Hi, I’m James  
 **Engineer | ML Researcher | Python Enjoyer**
 
-I like building things that solve real problems and exploring machine learning research.  
+I like building things that solve real problems and AI.
 
 - 🛠 **Work:** Full-stack engineering, AI tools, and data pipelines  
 - 🧠 **Research:** ML, data science, and applied math  
@@ -13,5 +13,5 @@ I like building things that solve real problems and exploring machine learning r
 - **AI Engineering** – Prompting, data cleaning, model deployment, and scaling AI systems  
 
 ### 📫 Connect with me
-- https://www.linkedin.com/in/james-mccormack-95634035a/
-- https://mccormack-personal-site.onrender.com/about
+- Linkedin: https://www.linkedin.com/in/james-mccormack-95634035a/
+- Website: https://mccormack-personal-site.onrender.com/about
